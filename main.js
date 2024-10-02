@@ -33,7 +33,6 @@
 //     console.log(estados[i]);
     
 
-}
 let idade=17;
 if(idade>17){
     console.log('pode dirgir')
