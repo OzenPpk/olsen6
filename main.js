@@ -25,5 +25,11 @@ let i=0;
 while(i<27){
     console.log(i);
     console.log(estados[i]);
-    i=i+1;
+    i=i++;
+}
+
+for (let i = 0; i < estados.length; i++) {
+    onsole.log(i);
+    console.log(estados[i]);
+    
 }
